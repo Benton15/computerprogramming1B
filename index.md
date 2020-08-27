@@ -1,4 +1,6 @@
-## Welcome to Benton's Computer Programming repository
+## Welcome to Benton's Computer Programming portfolio
+
+
 
 You can use the [editor on GitHub](https://github.com/Benton15/computerprogramming1B/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
